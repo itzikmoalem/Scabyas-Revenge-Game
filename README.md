@@ -18,3 +18,5 @@ The main menu consists of 4 options:
 <a href="https://ibb.co/sP1PDKL"><img src="https://i.ibb.co/BP6P7y8/main-menu.png" alt="main-menu" border="0"></a>
 
 
+*Missing due to lack of time - explosive animation, another kind of enemy soldier.
+
