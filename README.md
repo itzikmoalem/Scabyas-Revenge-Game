@@ -5,5 +5,5 @@ OOP Project - Me and my partner created a shot game, we used SFML, box2d Librari
 
 Watch our youtube video:
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/rLd362zgzZE-Y?t=31s "Everything Is AWESOME")
-https://www.youtube.com/watch?v=rLd362zgzZE
+[![Scabyas Revenge](https://ibb.co/rvrpPsB)](https://youtu.be/rLd362zgzZE-Y?t=31s "Scabyas Revenge")
+
